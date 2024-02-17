@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "945330672225",
+    "firebase_url": "https://locationuser-2d3a8-default-rtdb.firebaseio.com",
+    "project_id": "locationuser-2d3a8",
+    "storage_bucket": "locationuser-2d3a8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:945330672225:android:0d5ca6945748c4fce85020",
+        "android_client_info": {
+          "package_name": "com.example.gps_user"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6onoNwLykzwnSNqlbPKyVj3tCYn57s9M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:945330672225:android:dff6213a03d44f04e85020",
+        "android_client_info": {
+          "package_name": "com.example.openmap"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6onoNwLykzwnSNqlbPKyVj3tCYn57s9M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
